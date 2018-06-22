@@ -19,3 +19,5 @@
     * At least 10 processes are used, each having many CPU bursts.
     * The largest and smallest CPU burst averages differ by a factor of at least 2.
     * The CPU utilization is between 50 and 90 percent.
+
+![](https://github.com/qiyunlu/SIT.CS520.theSimulationProgrammingProject/raw/master/Figure1.png)
