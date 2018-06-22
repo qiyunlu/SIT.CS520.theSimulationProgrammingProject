@@ -1,4 +1,4 @@
-# SIT CS520 assignment
+# SIT CS520 Programming Assignment 2
 
 ### Please solve the problems below.
 
